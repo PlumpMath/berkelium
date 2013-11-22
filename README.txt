@@ -1,3 +1,6 @@
+NOTE: This package is no longer maintained. You probably want to try
+the Chromium Embedded Framework instead: http://code.google.com/p/chromiumembedded/
+
 Berkelium copyright (C) 2009-2010 The Sirikata team.
 
 Berkelium is a BSD licensed library that provides off-screen browser rendering

@@ -1,5 +1,10 @@
 /** \page index
  *
+ * <h2><b>NOTE:</b> This package is no longer maintained. You probably
+ * want to try the <a
+ * href="http://code.google.com/p/chromiumembedded/">Chromium Embedded
+ * Framework</a> instead. </h2>
+ *
  * Berkelium is a
  * <a href="http://www.opensource.org/licenses/bsd-license.php"> BSD
  * licensed </a> library that provides off-screen browser rendering
